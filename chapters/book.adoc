@@ -1,0 +1,38 @@
+= Алгоритмы коллективных операций MPI
+:author: Михаил Курносов (Mikhail Kurnosov)
+:email: mkurnosov@gmail.com
+:revdate: 2026-10-06
+:description: Книга об архитектуре библиотек стандарта MPI, коммуникационных алгоритмах HPC и коллективных операциях
+:keywords: MPI, collective, communication, reduce, reduction. allreduce, allgather, gather, alltoall, bcast, scatter
+:doctype: book
+:lang: ru
+:toc: left
+:toclevels: 2
+:sectnums:
+:sectanchors:
+//:appendix-caption:
+:imagesdir: figures
+:figure-caption: Рис.
+:figure-caption!:
+:stem: latexmath
+:source-highlighter: highlight.js
+:highlightjs-theme: github
+:icons: font
+
+include::preface.adoc[]
+include::ch_intro.adoc[]
+include::ch_intro_mpi.adoc[]
+//include::ch_bcast.adoc[]
+//include::ch_gather.adoc[]
+//include::ch_allgather.adoc[]
+//include::ch_reduce.adoc[]
+//include::ch_allreduce.adoc[]
+//include::ch_alltoall.adoc[]
+//include::ch_barrier.adoc[]
+//include::ch_shmem.adoc[]
+//include::ch_hier.adoc[]
+//include::ch_nbc.adoc[]
+//include::ch_ai.adoc[]
+//include::ch_bench.adoc[]
+include::appendix.adoc[]
+include::bibliography.adoc[]
