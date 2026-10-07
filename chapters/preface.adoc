@@ -6,7 +6,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 * Attribution: Credit must be given to the original authors and contributors.
 * No Additional Restrictions: You cannot impose legal restrictions that prevent others from using the book freely under the same terms.
 
-Free Digital Version Available. This book is freely available online at https://github.com/happi/theBeamBook/ under the Creative Commons license.
+Free Digital Version Available. This book is freely available online at https://mkurnosov.github.io/collbook/ under the Creative Commons license.
 
 For more information on the Creative Commons license, visit: https://creativecommons.org/licenses/by/4.0/.
 
