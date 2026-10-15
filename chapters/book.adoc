@@ -22,7 +22,7 @@
 include::preface.adoc[]
 include::ch_intro.adoc[]
 include::ch_intro_mpi.adoc[]
-//include::ch_bcast.adoc[]
+include::ch_bcast.adoc[]
 //include::ch_gather.adoc[]
 //include::ch_allgather.adoc[]
 //include::ch_reduce.adoc[]

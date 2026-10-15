@@ -1,0 +1,139 @@
+[bibliography]
+
+[bibliography]
+== Литература
+
+1. [[bib-evr66]] Э.В. Евреинов, Ю.Г. Косарев. Однородные универсальные вычислительные системы высокой производительности. Новосибирск: Наука, 1966.
+2. [[bib-khor78]] Э.В. Евреинов, В.Г. Хорошевский. Однородные вычислительные системы. Новосибирск: Наука, 1978.
+3. [[bib-korneev85]] В.В. Корнеев. Архитектура вычислительных систем с программируемой структурой. Наука: Новосибирск, 1985.
+4. [[bib-Monakhov2000]] О.Г. Монахов, Э.А. Монахова. Параллельные системы с распределенной памятью: структуры и организация взаимодействий. Новосибирск: ИВМиМГ СО РАН, 2000.
+5. [[bib-Khor2008Arch]] В.Г. Хорошевский. Архитектура вычислительных систем. Москва: МГТУ им. Н.Э. Баумана, 2008.
+6. [[bib-Levin1995]] A.V. Zabrodin, V.K. Levin, V.V. Korneev. The massively parallel computer system MBC-100 // Parallel Computing Technologies. Springer Berlin Heidelberg. 1995.
+7. [[bib-Stepanenko2016]] С.А. Степаненко. Мультипроцессорные среды суперЭВМ. Масштабирование эффективности. Москва: ФИЗМАТЛИТ, 2016.
+8. [[bib-Angara2019]] А.С. Симонов, И.А. Жабин, Е.Р. Куштанов, Д.В. Макагон, А.С. Семенов, А.Н. Щербак. Высокоскоростная сеть Ангара: архитектура и результаты применения // Вопросы кибербезопасности. 2019. N4.
+9. [[bib-Kalaev2009]] И.А. Каляев, И.И. Левин, Е.А. Семерников, В.И. Шмойлов. Реконфигурируемые мультиконвейерные вычислительные структуры. Ростов-на-Дону: ЮНЦ РАН, 2009.
+10. [[bib-MPIDTypes2011]] Gropp W., Torsten H., Thakur R., Traff J. Performance Expectations and Guidelines for MPI Derived Datatypes // Recent Advances in the MPI. Springer. Berlin, Heidelberg. 2011.
+11. [[bib-MPIDTypes2003]] Byna S., Gropp W., Xian-He S., Thakur R. Improving the performance of MPI derived datatypes by optimizing memory-access cost // Proc. of IEEE International Conference on Cluster Computing, 2003.
+12. [[bib-HoeflerProgress2008]] Hoefler T., Lumsdaine A. Message progression in parallel computing - to thread or not to thread? // IEEE International Conference on Cluster Computing, 2008.
+13. [[bib-TagMatching2016]] Flajslik M. Dinan J. Underwood K. Mitigating MPI Message Matching Misery // High Performance Computing. Springer, 2016.
+14. [[bib-KellerTagMatching2010]] Keller R., Graham R. Characteristics of the Unexpected Message Queue of MPI Applications //  Recent Advances in the MPI. Springer. Berlin, 2010.
+15. [[bib-MPIEager2003]] Brightwell R., Underwood K. Evaluation of an Eager Protocol Optimization for MPI // Recent Advances in Parallel Virtual Machine and MPI. Springer Berlin Heidelberg. Berlin, 2003.
+16. [[bib-kurnosov-p2p]] А.Д. Аненков, М.Г. Курносов. Анализ эффективности реализации дифференцированных обменов в библиотеках стандарта MPI // Сборник статей II всероссийской научно-практической конференции с международным участием им. В.В. Губарева (IASDK-18), 2018.
+17. [[bib-OpenMPI2006]] Graham R., Woodall T., Squyres J. Open MPI: A Flexible High Performance MPI // Parallel Processing and Applied Mathematics. Springer. Berlin, Heidelberg. 2006.
+18. [[bib-10.1007/0-387-23352-0_11]] Squyres J., Lumsdaine A. The Component Architecture of Open MPI: Enabling Third-Party Collective Algorithms // Component Models and Systems for Grid Applications. Springer US, 2005.
+19. [[bib-artem-pmix]] Polyakov A., Karasev B., Hursey J., Ladd J., Brinskii M., Shipunova E. A performance analysis and optimization of PMIx-based HPC software stacks // Proc. of the 26th European MPI Users' Group Meeting. AMC, 2019.
+20. [[bib-tuned2007]] Graham E. Fagg, George Bosilca, Jelena Pjeivac-Grbovic, Thara Angskun, Jack J. Dongarra. Tuned: An Open MPI Collective Communications Component // Distributed and Parallel Systems. Springer US, 2007.
+21. [[bib-sharp2020]] Richard L. Graham, Lion Levi, Devendar Burredy, Gil Bloch, Gilad Shainer, David Cho, George Elias, Daniel Klein, Joshua Ladd, Ophir Maor, Ami Marelli, Valentin Petrov, Evyatar Romlet, Yong Qin, Ido Zemah. Scalable Hierarchical Aggregation and Reduction Protocol (SHARP) Streaming-Aggregation Hardware Design and Evaluation // High Performance Computing. Springer, 2020.
+22. [[bib-han2020]] Xi Luo, Wei Wu, George Bosilca, Yu Pei, Qinglei Cao, Thananon Patinyasakdikul, Dong Zhong, Jack Dongarra. HAN: a Hierarchical AutotuNed Collective Communication Framework // IEEE International Conference on Cluster Computing (CLUSTER), 2020.
+23. [[bib-coll_sm_2008]] Richard L. Graham, Galen Shipman. MPI Support for Multi-core Architectures: Optimized Shared Memory Collectives // Recent Advances in Parallel Virtual Machine and Message Passing Interface. Springer, 2008.
+24. [[bib-collsel2007]] Jelena Pješivac-Grbović, George Bosilca, Graham E. Fagg, Thara Angskun, Jack J. Dongarra. MPI collective algorithm selection and quadtree encoding // Parallel Computing. 2007. Vol. 33. N 9.
+25. [[bib-collsel2018]] Sascha Hunold, Alexandra Carpen-Amarie. Algorithm Selection of MPI Collectives Using Machine Learning Techniques // IEEE/ACM Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), 2018.
+26. [[bib-rajeev2005-coll-mpich]] Thakur Rajeev, Rolf Rabenseifner, William Gropp. Optimization of Collective Communication Operations in MPICH // Int. Journal of High Performance Computing Applications. 2005. Vol. 19. N 1.
+27. [[bib-mitra95-fast-colls]] P. Mitra, D. Payne, L. Shuler, R. van de Geijnm J. Watts. Fast collective communication libraries, please // Proc. of the Intel Supercomputing Users’ Group Meeting. 1995.
+28. [[bib-Sanders2009-two-tree]] Peter Sanders, Jochen Speck, Jesper Larsson. Two-tree algorithms for full bandwidth broadcast, reduction and scan // Journal of Parallel Computing. Vol. 35, 12. 2009.
+29. [[bib-Bruck97]] J. Bruck, Ching-Tien Ho, S. Kipnis, E. Upfal, D. Weathersby. Efficient algorithms for all-to-all communications in multiport message-passing systems // IEEE Transactions on Parallel and Distributed Systems. 1997. Vol. 8. N 11.
+30. [[bib-Traff2005_Butterfly]] Jesper Larsson Traff. An Improved Algorithm for (Non-commutative) Reduce-Scatter with an Application // Recent Advances in Parallel Virtual Machine and Message Passing Interface. Springer. Berlin, Heidelberg. 2005.
+31. [[bib-Faraj2005Allgather]] Ahmad Faraj; Pitch Patarasuk; Xin Yuan. Bandwidth Efficient All-to-All Broadcast on Switched Clusters. 2005 IEEE International Conference on Cluster Computing. 2005.
+32. [[bib-Chen2005Allgather]] Jing Chen; Linbo Zhang; Yunquan Zhang; Wei Yuan. Performance evaluation of Allgather algorithms on terascale Linux cluster with fast Ethernet // International Conference on High-Performance Computing in Asia-Pacific Region (HPCASIA'05). 2005.
+33. [[bib-patarasuk09-allreduce]] Pitch Patarasuk; Xin Yuan. Bandwidth Optimal All-Reduce Algorithms for Clusters of Workstations // Journal of Parallel Distributed Computing. 2009. Vol. 69. N 2.
+34. [[bib-Kurnosov2016]] Mikhail G. Kurnosov. Dynamic mapping of all-to-all collective operations into hierarchical computer clusters // Int. Scientific-Technical Conference on Actual Problems of Electronics Instrument Engineering (APEIE). 2016. Vol. 2.
+35. [[bib-cheetah2011]] Joshua Ladd; Manjunath Gorentla Venkata; Pavel Shamis; Richard Graham. Collective Framework and Performance Optimizations to Open MPI for Cray XT Platforms // Cray User Group meeting (CUG 2011). 2011.
+36. [[bib-hiermpich]] Hao Zhu; David Goodell; William Gropp; Rajeev Thakur. Hierarchical Collectives in MPICH2 // Recent Advances in Parallel Virtual Machine and Message Passing Interface. Springer. 2009.
+37. [[bib-IntelSHM2018]] Surabhi Jain; Rashid Kaleem; Marc Gamell Balmana; Akhil Langer; Dmitry Durnov; Alexander Sannikov; Maria Garzaran. Framework for Scalable Intra-Node Collective Operations using Shared Memory // International Conference for High Performance Computing, Networking, Storage and Analysis. 2018.
+38. [[bib-kurnosov2020]] Mikhail Kurnosov; Elizaveta Tokmasheva. Shared Memory Based MPI Broadcast Algorithms for NUMA Systems // Supercomputing. Springer. 2020.
+39. [[bib-romanuta2023]] Alexey Romanyuta; Mikhail Kurnosov. Shared Memory based MPI Reduce and Bcast Algorithms // Numerical Methods and Programming. 2023. Vol. 24. N 4.
+40. [[bib-libnbc]] Torsten Hoefler; Andrew Lumsdaine; Wolfgang Rehm. Implementation and performance analysis of non-blocking collective operations for MPI // Proc. of the 2007 ACM/IEEE Conference on Supercomputing. Association for Computing Machinery, 2007.
+41. [[bib-persistentcolls]] Bradley Morgan; Daniel J. Holmes; Anthony Skjellum; Purushotham Bangalore; Srinivas Sridharan. Planning for performance: persistent collective operations for MPI // Proc. of the 24th European MPI Users' Group Meeting. Association for Computing Machinery, 2017.
+42. [[bib-sparsecolls]] Torsten Hoefler; Jesper Larsson Traff. Sparse collective operations for MPI // Proc. of the 2009 IEEE International Symposium on Parallel and Distributed Processing, 2009.
+43. [[bib-hockney94]] Roger W. Hockney. The communication challenge for MPP: Intel Paragon and Meiko CS-2 // Parallel Computing. 1994. Vol. 20. N 3.
+44. [[bib-valiant90-bsp]] Leslie G. Valiant. A bridging model for parallel computation // Communications of the ACM. 1990. Vol. 33. N 8.
+45. [[bib-culler93-logp]] David Culler; Richard Karp; David Patterson; Abhijit Sahay; Klaus Erik Schauser; Eunice Santos; Ramesh Subramonian; Thorsten von Eicken. LogP: Towards a Realistic Model of Parallel Computation // ACM SIGPLAN Notices, 1993. Vol. 28. N 7.
+46. [[bib-alexandrov95-loggp]] Albert Alexandrov; Mihai F. Ionescu; Klaus E. Schauser; Chris Scheiman. LogGP: Incorporating Long Messages into the LogP Model --- One Step Closer Towards a Realistic Model for Parallel Computation // Technical report, University of California at Santa Barbara. 1995.
+47. [[bib-kielmann2000]] Thilo Kielmann; Henri E. Bal; Kees Verstoep. Fast Measurement of LogP Parameters for Message Passing Platforms // Proc. of the 15 IPDPS 2000 Workshops on Parallel and Distributed Processing, 2000.
+48. [[bib-hoefler-loggopsim]] Torsten Hoefler; Timo Schneider; Andrew Lumsdaine. LogGOPSim: simulating large-scale applications in the LogGOPS model // Proc. of the 19th ACM International Symposium on High Performance Distributed Computing, 2010.
+49. [[bib-avetisyan2007-parjava]] А.И. Аветисян; С.С. Гайсарян; В.П. Иванников; В.А. Падарян. Прогнозирование производительности MPI-программ на основе моделей // Автоматика и телемеханика. 2007.
+50. [[bib-badia2003]] R.M. Badia; J.Labarta; J.Gimenez. Predicting MPI applications behavior in grid environments // In Workshop on Grid Applications and Programming Tools. 2003.
+51. [[bib-zheng2005]] Gengbin Zheng; Terry Wilmarth; Praveen Jagadishprasad; Laxmikant V. Kale. Simulation-based Performance Prediction for Large Parallel Machines // Int. Journal of Parallel Programming. 2005. Vol. 33. N 2.
+52. [[bib-schaeli2008]] Basile Schaeli; Sebastian Gerlach; Roger D. Hersch. A simulator for adaptive parallel applications //Journal of Computer and System Sciences. 2008. Vol. 74. N 6.
+
+53. [[bib-bagrodia2001]] Rajive Bagrodia; Ewa Deelman; Thomas Phan. Parallel Simulation of Large-Scale Parallel Applications // International Journal of High Performance Computing Applications. 2001. Vol, 15. N 1.
+
+54. [[bib-rodriguez2004]] German Rodriguez; Rosa M Badia; Jesus Labarta. Generation of Simple Analytical Models for Message Passing Applications //. 10th International Euro-Par Conference. 2004.
+
+55. [[bib-rugina98]] R. Rugina; K. E. Schauser. Predicting the Running Times of Parallel Programs by Simulation // Proceedings of the 12th International Parallel Processing Symposium on International Parallel Processing Symposium. IEEE Computer Society. 1998.
+
+56. [[bib-hoefler2009]] T. Hoefler; T. Schneider; A. Lumsdaine. LogGP in Theory and Practice - An In-depth Analysis of Modern Interconnection Networks and Benchmarking Methods for Collective Operations // Elsevier Journal of Simulation Modelling Practice and Theory. 2009. Vol. 17. N 9.
+
+57. [[bib-shroff99-collmark]] Mohak Shroff; Robert A. van de Geijn. CollMark: MPI collective communication benchmark // Technical report, Dept. of Computer Sciences, University of Texas at Austin. 1999.
+
+58. [[bib-khor2010]] В.Г. Хорошевский. Распределенные вычислительные системы с программируемой структурой // Вестник СибГУТИ. 2010. N 2.
+
+59. [[bib-Hoefler2014-Bcast]] Torsten Hoefler; Dmitry Moor. Energy, Memory, and Runtime Tradeoffs for Implementing Collective Communication Operations // Supercomputing Frontiers and Innovations. 2014. Vol. 1. N 2.
+
+60. [[bib-WarrenHackersDelight]] Г.С. Уоррен. Алгоритмические трюки для программистов. 2-е изд. М.: Вильямс, 2014.
+
+61. [[bib-Barnett1994InterprocessorCC]] Michael Barnett; Lance Shuler; R.A. van de Geijn; S. Gupta; David G. Payne; Jerrell Watts. Interprocessor collective communication library (InterCom) // Proceedings of IEEE Scalable High Performance Computing Conference. 1994.
+
+62. [[bib-TRAFF2008887]] Jesper Larsson Träff; Andreas Ripke. Optimal broadcast for fully connected processor-node networks //Journal of Parallel and Distributed Computing. 2008. Vol. 68. N 7.
+
+63. [[bib-Loch2021SparbitAN]] Wilton Jaciel Loch; Guilherme Piegas Koslovski. Sparbit: a new logarithmic-cost and data locality-aware MPI Allgather algorithm // International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), 2021.
+
+64. [[bib-MyReduce97]] Rolf Rabenseifner. A new optimized MPI reduce and allreduce algorithm. 1997.
+
+65. [[bib-rabenseifner2004-cray-x1]] Rolf Rabenseifner; Panagiotis Adamidis. Collective Reduction Operation on Cray X1 and Other Platforms // Proceedings of the CUG 2004 Conference, 2004.
+
+66. [[bib-Brooks1986]] Eugene D. Brooks. The butterfly barrier // International Journal of Parallel Programming. 1986. Vol. 15. N 4.
+
+67. [[bib-Hensgen1988]] Debra Hensgen; Raphael Finkel; Udi Manber. Two algorithms for barrier synchronization // International Journal of Parallel Programming. 1988. Vol. 17. N 1.
+
+68. [[bib-Kini2003]] Sushmitha P. Kini; Jiuxing Liu; Jiesheng Wu; Pete Wyckoff; Dhabaleswar K. Panda. Fast and Scalable Barrier Using RDMA and Multicast Mechanisms for InfiniBand-Based Clusters // Recent Advances in Parallel Virtual Machine and Message Passing Interface. Springer Berlin Heidelberg. Berlin, 2003.
+
+69. [[bib-kurnosov-barrier-shmem]] М.Г. Курносов; Е.И. Токмашева. Оптимизация барьерной синхронизации на асимметричных NUMA-подсистемах процессорных ядер // Вестник СибГУТИ. 2021.
+
+70. [[bib-barrier_comb_tree]] Pen-Chung Yew; Nian-Feng Tzeng; Lawrie. Distributing Hot-Spot Addressing in Large-Scale Multiprocessors // IEEE Transactions on Computers. 1987. Vol. C-36. N 4.
+
+71. [[bib-barrier_mcs]] John M. Mellor-Crummey; Michael L. Scott. Algorithms for scalable synchronization on shared-memory multiprocessors // ACM Trans. Comput. Syst., 1991. Vol. 9. N 1.
+
+72. [[bib-barrier_tourn]] Nian-Feng Tzeng; Angkul Kongmunvattana. Distributed shared memory systems with improved barrier synchronization and data transfer // Proc. of the 11th International Conference on Supercomputing, 1997.
+
+73. [[bib-kurnosov-per]] Е.Н. Перышкова; М.Г. Курносов. Учет конкурентного разделения каналов связи при формировании подсистем в вычислительных кластерах на базе многопроцессорных узлов // Вестник ТГУ. Управление, вычислительная техника и информатика. 2019. N 47.
+
+74. [[bib-kurnosov2022-coll-pg-barrier]] М.Г. Курносов. Иерархический алгоритм барьерной синхронизации для многопроцессорных систем с общей памятью // Вестник СибГУТИ. 2022. Vol. 16. N 2.
+
+75. [[bib-kurnosov2023-coll-pg]] М.Г. Курносов. Алгоритмы редукции и широковещательной рассылки для вычислительных кластеров с многоуровневыми коммуникационными сетями // Вестник СибГУТИ. 2023. Vol. 17. N 3.
+
+76. [[bib-kurnosov2011-vkit]] М.Г. Курносов. Алгоритмы трансляционно-циклических информационных обменов в иерархических распределенных вычислительных системах // Вестник компьютерных и информационных технологий. 2011. N 5.
+
+77. [[bib-kurnosov2009-icsoft]] V. Khoroshevsky; M. Kurnosov. Mapping Parallel Programs into Hierarchical Distributed Computer Systems // Proc. of 4th International Conference Software and Data Technologies (ICSOFT 2009), 2009. Vol. 2.
+
+78. [[bib-TraffMapping2002]] J.L. Traff. Implementing the MPI Process Topology Mechanism // Proceedings of the ACM/IEEE conference on Supercomputing, 2002.
+
+79. [[bib-HoeflerSnirMapping2011]] T. Hoefler; M. Snir. Generic Topology Mapping Strategies for Large-scale Parallel Architectures // In Proc. of the 2011 ACM International Conference on Supercomputing (ICS'11). 2011.
+
+80. [[bib-KhorKurMapping2008]] В.Г. Хорошевский; М.Г. Курносов. Алгоритмы распределения ветвей параллельных программ по процессорным ядрам вычислительных систем // Автометрия. 2008. Vol. 44. N 2.
+
+81. [[bib-kurnosov2009-mapping]] М.Г. Курносов. Алгоритмы вложения параллельных программ в иерархические распределённые вычислительные системы // Вестник СибГУТИ. 2009. Vol 6.
+
+82. [[bib-karypis98-fast]] G. Karypis; V. Kumar. A fast and high quality multilevel scheme for partitioning iregular graphs // Journal on Scientific computing. 1998. Vol. 20.
+
+83. [[bib-kurnosov2012-nnsu-mpiperf]] М.Г. Курносов. MPIPerf: пакет оценки эффективности коммуникационных функций библиотек стандарта MPI // Вестник Нижегородского университета им. Н.И. Лобачевского. 2012. N 2.
+
+84. [[bib-accl]] Jianbo Dong et al. ACCL: Architecting Highly Scalable Distributed Training Systems With Highly Efficient Collective Communication Library // IEEE Micro. 2021. Vol. 41. N 5.
+
+85. [[bib-SKaMPI]] Thomas Worsch; Ralf Reussner; Werner Augustin. On Benchmarking Collective MPI Operations // Recent Advances in Parallel Virtual Machine and Message Passing Interface, 2002.
+
+86. [[bib-hoefler-netgauge-hpcc07]] Torsten Hoefler; Torsten Mehlan; Andrew Lumsdaine; Wolfgang Rehm. Netgauge: A Network Performance Measurement Framework // Proc. of High Performance Computing and Communications, 2007. Vol 4782.
+
+87. [[bib-Gropp99]] William Gropp; Ewing L. Lusk. Reproducible Measurements of MPI Performance Characteristics //  Proc. of the 6th European PVM/MPI Users' Group Meeting on Recent Advances in Parallel Virtual Machine and Message Passing Interface, 1999.
+
+88. [[bib-Lastovetsky2008]] Alexey Lastovetsky; Vladimir Rychkov; Maureen O'Flynn. MPIBlib: Benchmarking MPI Communications for Parallel Computing on Homogeneous and Heterogeneous Clusters. // Recent Advances in Parallel Virtual Machine and Message Passing Interface, 2008.
+
+89. [[bib-kurnosov-pgas]] И.И. Кулагин; А.А. Пазников; М.Г. Курносов. Эвристические алгоритмы оптимизации информационных обменов в параллельных PGAS-программах // Вестник СибГУТИ. 2014.
+
+90. [[bib-GKP]] Р. Грэхем; Д.Э. Кнут; О. Паташник. Конкретная математика. Математические основы информатики. Москва: Вильямс, 2010.
+
+91. [[bib-Everinov_Kosarev]] Э.В. Евреинов; Ю.Г. Косарев. О возможности построения вычислительных систем высокой производительности. Новосибирск: СО АН СССР, 1962.
+
+92. [[bib-Monakhov2001]] О.Г. Монахов; Э.А. Монахова. Параллельные системы с распределённой памятью: управление ресурсами и заданиями. Новосибирск: ИВМиМГ СО РАН, 2001.
+
+93. [[bib-Goldberg91whatevery]] David Goldberg. What Every Computer Scientist Should Know About Floating Point Arithmetic // ACM Computing Surveys. 1991. Vol. 23. N 1.
